@@ -5,7 +5,7 @@ This website is dedicated to DSAI department of IIT Bhilai. It plans to provide 
 Set Up Instructions:
 
 Download and extract the zip file.
-Open the extracted file in VS Code and type in terminal: npm begin
+Open the extracted folder in VS Code and type in terminal: npm begin
 The homepage starts on localhost
 
 Screenshots are attatched below:
